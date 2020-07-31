@@ -9,7 +9,7 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "OraniaLauncher",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
@@ -17,11 +17,11 @@ The distribution index is written in JSON. The general format of the index is as
         {
             "id": "Example_Server",
             "name": "WesterosCraft Example Client",
-            "description": "Example WesterosCraft server. Connect for fun!",
+            "description": "Orania Sever. Connecter pour le fun!",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
-            "minecraftVersion": "1.11.2",
+            "address": "188.165.43.47:31801",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Example",
                 "largeImageText": "WesterosCraft Example Server",
